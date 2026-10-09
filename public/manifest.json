@@ -1,0 +1,23 @@
+{
+  "short_name": "JCB Log",
+  "name": "JCB Work Log & Fleet Management",
+  "icons": [
+    {
+      "src": "/pwa-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/pwa-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#18181b",
+  "theme_color": "#f59e0b",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "description": "Completely offline-capable JCB work log, excavator billing, and fleet management system."
+}
